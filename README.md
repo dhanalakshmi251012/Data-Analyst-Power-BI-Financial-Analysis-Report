@@ -56,11 +56,11 @@
 
 **Customer Preferences:**
 
--**Product-wise:** Identify the most preferred products.
+- **Product-wise:** Identify the most preferred products.
 
--**Age-wise:** Understand purchasing trends across different age groups.
+- **Age-wise:** Understand purchasing trends across different age groups.
 
--**Discount-wise:** Analyze how customers respond to various discount strategies.
+- **Discount-wise:** Analyze how customers respond to various discount strategies.
 
 - **Payment-wise:** Evaluate preferences for payment methods.
 
